@@ -1,0 +1,11 @@
+E:\Practice\JsonToDB\JsonToDB\bin\Debug\netcoreapp2.1\JsonToDB.deps.json
+E:\Practice\JsonToDB\JsonToDB\bin\Debug\netcoreapp2.1\JsonToDB.runtimeconfig.json
+E:\Practice\JsonToDB\JsonToDB\bin\Debug\netcoreapp2.1\JsonToDB.runtimeconfig.dev.json
+E:\Practice\JsonToDB\JsonToDB\bin\Debug\netcoreapp2.1\JsonToDB.dll
+E:\Practice\JsonToDB\JsonToDB\obj\Debug\netcoreapp2.1\JsonToDB.csproj.CoreCompileInputs.cache
+E:\Practice\JsonToDB\JsonToDB\obj\Debug\netcoreapp2.1\JsonToDB.AssemblyInfoInputs.cache
+E:\Practice\JsonToDB\JsonToDB\obj\Debug\netcoreapp2.1\JsonToDB.AssemblyInfo.cs
+E:\Practice\JsonToDB\JsonToDB\obj\Debug\netcoreapp2.1\JsonToDB.csprojAssemblyReference.cache
+E:\Practice\JsonToDB\JsonToDB\bin\Debug\netcoreapp2.1\JsonToDB.pdb
+E:\Practice\JsonToDB\JsonToDB\obj\Debug\netcoreapp2.1\JsonToDB.dll
+E:\Practice\JsonToDB\JsonToDB\obj\Debug\netcoreapp2.1\JsonToDB.pdb
